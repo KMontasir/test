@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub
 
-![Logo K-Montasir](logo_KMontasir.png)
+![Cover_KM](km_cover.jpg)
 
 ## 🛠️ Qui suis-je ?
 
