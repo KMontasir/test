@@ -4,18 +4,18 @@
   <img src="km_cover.jpg" alt="Cover_KM" width="500">
 </p>
 
-## 🛠️ Qui suis-je ?
+## 🛠️ Who am I?  
 
-Je suis un passionné d'informatique spécialisé dans l'administration système et réseau, le DevOps et la formation IT. Fort d'une expérience en tant que freelance, j'accompagne les entreprises et les professionnels dans l'automatisation, l'optimisation et la sécurisation de leurs infrastructures.
+I am an IT enthusiast specializing in system and network administration, DevOps, and IT training. With extensive experience as a freelancer, I help businesses and professionals automate, optimize, and secure their infrastructures.  
 
----
+---  
 
-## 📂 Projets & Contributions
+## 📂 Projects & Contributions  
 
-🔹 Vous trouverez ici des scripts, des procédures et des outils facilitant le travail des administrateurs système, DevOps et techniciens IT.
+🔹 Here, you'll find scripts, procedures, and tools designed to assist system administrators, DevOps engineers, and IT technicians.  
 
-N'hésitez pas à explorer mes dépôts et à contribuer !
+Feel free to explore my repositories and contribute!  
 
----
+---  
 
-⭐ **Si mes projets vous aident, n'oubliez pas de laisser une étoile ⭐ sur les dépôts !**
+⭐ **If my projects help you, don't forget to leave a star ⭐ on the repositories!**  
