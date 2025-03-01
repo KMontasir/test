@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon profil GitHub
+<h1 align="center">👋 Bienvenue sur mon profil GitHub</h1>
 
 <p align="center">
   <img src="km_cover.jpg" alt="Cover_KM" width="500">
