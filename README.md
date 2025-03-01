@@ -1,6 +1,8 @@
 # 👋 Bienvenue sur mon profil GitHub
 
-<img src="km_cover.jpg" alt="Cover_KM" width="500">
+<p align="center">
+  <img src="km_cover.jpg" alt="Cover_KM" width="500">
+</p>
 
 ## 🛠️ Qui suis-je ?
 
