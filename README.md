@@ -1,5 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub
 
+![Logo K-Montasir](logo_KMontasir.png)
+
 ## 🛠️ Qui suis-je ?
 
 Je suis un passionné d'informatique spécialisé dans l'administration système et réseau, le DevOps et la formation IT. Fort d'une expérience en tant que freelance, j'accompagne les entreprises et les professionnels dans l'automatisation, l'optimisation et la sécurisation de leurs infrastructures.
