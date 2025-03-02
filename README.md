@@ -18,8 +18,8 @@
 🌍 Always learning, sharing, and contributing to open-source projects.  
 
 📫 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/VOTRE-PROFIL)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:VOTRE-EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/montasir-k/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:khoulkhali_montasir@laposte.net)  
 
 ---
 
