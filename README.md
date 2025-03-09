@@ -4,7 +4,8 @@ Ceci est un dépôt de test personnel.
 
 ## Objectif
 
-Ce projet est uniquement destiné à des fins de test. Il permet d'explorer différentes commandes Git, de pratiquer et de tester des fonctionnalités.
+- Ce projet est uniquement destiné à des fins de test. Il permet d'explorer différentes commandes Git, de pratiquer et de tester des fonctionnalités.
+- Il me permettra aussi de stocker différentes commandes Git.
 
 ## Exemples de commandes
 
