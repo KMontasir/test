@@ -1,4 +1,4 @@
-# test Repository
+# Test Repository
 
 Ceci est un dépôt de test personnel.
 
@@ -16,9 +16,11 @@ git config --global user.name "Votre Nom"
 
 ### Fusionner des pull request
 - Créer une nouvelle branche :
+```bash
 git checkout -b <nouvelle-branche>
 - Modifier le(s) fichier(s).
 - Ajouter les changements, faire un commit et pousser la branche
+```
 
 ### Effectuer un push
 - Vérifier les fichier mofifiés :
@@ -44,7 +46,7 @@ git push origin <main>
 
 ## Auteur
 
-Montasir
+KMontasir
 [Le 09/03/2025]
 
 Merci à tous
