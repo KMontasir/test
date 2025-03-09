@@ -19,9 +19,9 @@ git config --global user.name "Votre Nom"
 - Créer une nouvelle branche :
 ```bash
 git checkout -b <nouvelle-branche>
+```
 - Modifier le(s) fichier(s).
 - Ajouter les changements, faire un commit et pousser la branche
-```
 
 ### Effectuer un push
 - Vérifier les fichier mofifiés :
