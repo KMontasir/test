@@ -6,6 +6,37 @@ Ceci est un dépôt de test personnel.
 
 Ce projet est uniquement destiné à des fins de test. Il permet d'explorer différentes commandes Git, de pratiquer et de tester des fonctionnalités.
 
+## Exemples de commandes
+
+### Configurer le compte sur le poste client Git :
+```bash
+git config --global user.email "Vous@exemple.com"
+git config --global user.name "Votre Nom"
+```
+
+### Effectuer un push
+- Vérifier les fichier mofifiés :
+```bash
+git status
+```
+- Ajouter le fichier modifié
+```bash
+git add <fichier>
+```
+- Ajouter tous les fichiers modifiés
+```bash
+git add .
+```
+- Faire un commit :
+```bash
+git commit -m "<Message du commit>"
+```
+- Envoyer les modifications sur la branche :
+```bash
+git push origin <main>
+```
+
+
 ## Auteur
 
 Montasir
