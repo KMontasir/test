@@ -14,6 +14,12 @@ git config --global user.email "Vous@exemple.com"
 git config --global user.name "Votre Nom"
 ```
 
+### Fusionner des pull request
+- Créer une nouvelle branche :
+git checkout -b <nouvelle-branche>
+- Modifier le(s) fichier(s).
+- Ajouter les changements, faire un commit et pousser la branche
+
 ### Effectuer un push
 - Vérifier les fichier mofifiés :
 ```bash
@@ -36,7 +42,7 @@ git commit -m "<Message du commit>"
 git push origin <main>
 ```
 
-
 ## Auteur
 
 Montasir
+[Le 09/03/2025]
