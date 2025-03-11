@@ -14,9 +14,11 @@ Ceci est un dépôt de test personnel.
 ```bash
 git clone https://github.com/<USERNAME>/<REPOSITORY>.git
 ```
-- Si le repository est privé, vous pouvez cloner en utilisant un token directement dans l'URL HTTPS :
+- Si le repository est privé, vous pouvez cloner en utilisant un token :
 ```bash
-git clone https://<TOKEN>@github.com/<USERNAME>/<REPOSITORY>.git
+echo "machine github.com login <TOKEN>" >> ~/.netrc
+chmod 600 ~/.netrc
+git clone https://github.com/<USERNAME>/<REPOSITORY>.git
 ```
 
 ### Configurer le compte sur le poste client Git :
