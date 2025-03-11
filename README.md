@@ -9,6 +9,16 @@ Ceci est un dépôt de test personnel.
 
 ## Exemples de commandes
 
+### Cloner un dépôt GitHub
+- Cloner un dépôt public :
+```bash
+git clone https://github.com/<USERNAME>/<REPOSITORY>.git
+```
+- Si le repository est privé, vous pouvez cloner en utilisant un token directement dans l'URL HTTPS :
+```bash
+git clone https://<TOKEN>@github.com/<USERNAME>/<REPOSITORY>.git
+```
+
 ### Configurer le compte sur le poste client Git :
 ```bash
 git config --global user.email "Vous@exemple.com"
